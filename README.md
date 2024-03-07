@@ -1,4 +1,4 @@
-# testing
+# Networking API
 
 This repository contains an API skeleton where you can add your code,
 choose the language of your preference.
